@@ -1,0 +1,14 @@
+{                         
+  "id": "",               
+  "createdBy": "VirtAdmin",     
+  "comment": "Maintenance", 
+  "startsAt": "START",            
+  "endsAt": "END",        
+  "matchers": [           
+    {                     
+      "name": "KEY",   
+      "value": "VALUE", 
+      "isRegex": false   
+    }             
+  ]                     
+}
